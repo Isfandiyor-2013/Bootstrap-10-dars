@@ -1,0 +1,17 @@
+body{
+    background-color: seashell;
+}
+.matn{
+    border: 1px solid white;
+    background-color: white;
+    height: 100px;
+    font-size: 20px;
+    top: 40px;
+    line-height: 100px;
+    width: 420px;
+    text-align: left;
+}
+.ty{
+    border: 1px solid white;
+    background-color: white;
+}
